@@ -22,7 +22,7 @@ export class AppComponent {
       return;
     }
 
-    console.log(`Token [${this.token}] generated`);
+    console.log(`${this.token}`);
   }
 
 }
